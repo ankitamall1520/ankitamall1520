@@ -67,8 +67,8 @@
 <!-- Backend Section -->
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <a href="https://django.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Django" />
   </a>
 </p>
 
